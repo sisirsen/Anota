@@ -8,7 +8,7 @@ Anota is a modern e-learning platform designed to make online learning engaging,
 
 ## Live Demo
 
-Coming Soon
+https://anota-five.vercel.app/
 
 ---
 
